@@ -1,3 +1,3 @@
 # checkpoint
 - Rodrigo Vera
-Carol Velez
+- Carol Velez
