@@ -1,2 +1,6 @@
 
-Avril Tihista
+# checkpoint
+- Rodrigo Vera
+- Carol Velez
+-Helen Bernal
+- Avril Tihista
